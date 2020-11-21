@@ -11,13 +11,6 @@ The react native Online Music Player
 
 
 
-
-
-![Example One](./assets/images/screen1.png  "Example png") ![Example two](./assets/images/screen2.png  "Example png") 
-
-![Example three](./assets/images/screen3.png  "Example png")
-
-
 ### Api needed
 
 | Api | Type | Description | Required |
@@ -26,3 +19,9 @@ The react native Online Music Player
 | /UserInfo | Array of Strings | Send Device info to server (DeviceName,DeviceMode ,SystemName,SystemVersion,UsedMemory) | **YES** |
 | /LastAdd | Array of Strings | Return of banner data |  | 
 | /MainList | Array of Strings | Return of home data | |
+
+
+
+![Example One](./assets/images/screen1.png  "Example png") ![Example two](./assets/images/screen2.png  "Example png") 
+
+![Example three](./assets/images/screen3.png  "Example png")
